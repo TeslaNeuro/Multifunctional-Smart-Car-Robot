@@ -1,6 +1,6 @@
-# Smart Car Robot for Obstacle Avoidance and Line Following
+# Multifunctional Smart Car Robot
 
-A multifunctional robot built using the ELEEGO Robot package, designed for autonomous navigation with obstacle avoidance and line following capabilities.
+A multifunctional smart car robot built using the ELEEGO Robot package, designed for autonomous navigation with obstacle avoidance and line following capabilities.
 
 ## Features
 - **Obstacle Avoidance**: Ultrasonic sensors detect and avoid obstacles in the robot's path.
