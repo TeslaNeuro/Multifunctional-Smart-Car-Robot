@@ -1,6 +1,5 @@
 /* 
-   Lab 5: Object Avoidance
-   Group: E4
+   Object Avoidance using Ultrasonic Sensor
    Authour: Arshia
    09/04/2022
 */
