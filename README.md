@@ -1,6 +1,6 @@
 # Multifunctional Smart Car Robot
 
-A multifunctional smart car robot built using the ELEEGO Robot package, designed for autonomous navigation with obstacle avoidance and line following capabilities.
+A multifunctional smart car robot built using the ELEEGO Robot package, designed for autonomous navigation with obstacle avoidance, remote control, and line following capabilities.
 
 ![image](https://github.com/user-attachments/assets/53d1af6a-5bb6-4f68-a40d-b3fc970a86cd)
 
