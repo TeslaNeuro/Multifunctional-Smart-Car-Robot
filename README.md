@@ -49,10 +49,10 @@ A multifunctional smart car robot built using the ELEEGO Robot package, designed
 
 ## Usage
 Once powered on, the robot will:
-- Navigate autonomously by avoiding obstacles and following a line.
+- Navigate autonomously by avoiding obstacles or following a line (Use the app to toggle between or make your own custom program).
 - Be controllable via the ELEEGO app through Bluetooth for manual control or custom feature activation.
 
 ## Customization
 - Modify the line-following and obstacle avoidance hardware or software parameters for better resolution or accuracy.
-- Add additional sensors or modify the control logic for new features (e.g., remote control through the app).
+- Add additional sensors or modify the control logic for new features (e.g., remote control through your own app).
 
