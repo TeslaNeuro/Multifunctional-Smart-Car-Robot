@@ -1,6 +1,6 @@
 # Obstacle Avoidance Robot
 
-This project is an Arduino-based obstacle avoidance robot that uses an ultrasonic sensor and a servo motor to detect and avoid obstacles in its path. The robot moves forward while continuously scanning for obstacles. When an obstacle is detected, it adjusts its direction accordingly.
+This project is an Arduino-based obstacle avoidance robot that uses an ultrasonic sensor and a servo motor to detect and avoid obstacles in its path. The robot moves forward while continuously scanning for obstacles. When an obstacle is detected, it adjusts its direction accordingly through closed loop feedback from sensors.
 
 ---
 
