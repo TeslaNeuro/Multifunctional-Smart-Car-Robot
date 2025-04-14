@@ -1,4 +1,4 @@
-# 🚗 Remote_Control
+# 🚗 Remote Control
 
 An Arduino-powered robotic car with multiple driving modes:
 
