@@ -117,5 +117,5 @@ An Arduino-powered robotic car with multiple driving modes:
 
 ## 🙌 Acknowledgements
 
-Developed by **HOU Changhua**  
+Developed by **HOU Changhua**  && **Benoit Blanchon**
 Initial release: **August 2019**
